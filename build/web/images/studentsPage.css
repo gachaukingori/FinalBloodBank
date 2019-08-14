@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 14, 2019, 6:49:27 PM
+    Author     : victor
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bags.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+.bag-card
+    {
+    width: 320px;
+    height: 320px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.div.bag-form{
+    display: block;
+    text-align: center;
+}
+

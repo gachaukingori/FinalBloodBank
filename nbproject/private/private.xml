@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/victor/git/BloodBank/web/allABNegative.jsp</file>
+            <file>file:/home/victor/git/BloodBank/web/newDonor.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/BpositiveServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/web/homepage.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/bloodBagServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/web/ViewRecipients.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/BpositiveServlet1.java</file>
+            <file>file:/home/victor/git/BloodBank/web/displaySearch.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Models/recipientCart.java</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/AnegativeServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/src/java/dataAccessObjects/DBConnection.java</file>
+            <file>file:/home/victor/git/BloodBank/web/expiredBloodOpositive.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/OnegativeServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/web/allABPositive.jsp</file>
+            <file>file:/home/victor/git/BloodBank/web/cart.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/cartServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/RecipientServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/web/bloodDetails.jsp</file>
+            <file>file:/home/victor/git/BloodBank/web/loginpage.jsp</file>
+            <file>file:/home/victor/git/BloodBank/web/adminpage.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/ViewRecipientsServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/BnegativeServlet.java</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Models/bloodBag.java</file>
+            <file>file:/home/victor/git/BloodBank/web/allBNegative.jsp</file>
+            <file>file:/home/victor/git/BloodBank/src/java/Controllers/allDonorsServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
